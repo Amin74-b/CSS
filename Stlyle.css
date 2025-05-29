@@ -11,4 +11,14 @@
     background-color: blueviolet;
     display: flex;
     color: aqua;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+@media (max-width:600px) {
+    .con {
+        background-color: rgb(201, 72, 82);
+
+    flex-direction: column;
+    }
 }
