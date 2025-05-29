@@ -1,0 +1,14 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(63, 65, 201);
+    border: 2px solid black;
+    padding:120px;
+     margin: 20px;
+}
+
+.con {
+    background-color: blueviolet;
+    display: flex;
+    color: aqua;
+}
